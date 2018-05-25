@@ -11,8 +11,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: ""
 tags: Azure Logic Apps
-created: "2018-05-21"
-modified: "2018-05-21"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/apis.md
 specificationVersion: "0.14"
 apis:
@@ -25,9 +25,9 @@ apis:
   tags: Workflows Subscription
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidprovidersmicrosoftlogicworkflows-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidprovidersmicrosoft-logicworkflows-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidprovidersmicrosoftlogicworkflows-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidprovidersmicrosoft-logicworkflows-get-openapi.md
 - name: Azure Logic Apps API Workflows List By Resource Group
   x-api-slug: azure-logic-apps-api
   description: Gets a list of workflows by resource group.
@@ -37,9 +37,9 @@ apis:
   tags: Workflows Resource Group
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflows-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflows-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflows-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflows-get-openapi.md
 - name: Azure Logic Apps API Workflows Get
   x-api-slug: azure-logic-apps-api
   description: Gets a workflow.
@@ -49,9 +49,9 @@ apis:
   tags: Workflows
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflowname-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflowname-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflowname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflowname-get-openapi.md
 - name: Azure Logic Apps API Workflows Create Or Update
   x-api-slug: azure-logic-apps-api
   description: Creates or updates a workflow.
@@ -61,7 +61,7 @@ apis:
   tags: Workflows
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflowname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflowname-put-openapi.md
 - name: Azure Logic Apps API Workflows Update
   x-api-slug: azure-logic-apps-api
   description: Updates a workflow.
@@ -71,7 +71,7 @@ apis:
   tags: Workflows
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflowname-patch-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflowname-patch-openapi.md
 - name: Azure Logic Apps API Workflows Delete
   x-api-slug: azure-logic-apps-api
   description: Deletes a workflow.
@@ -81,9 +81,9 @@ apis:
   tags: Workflows
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflowname-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflowname-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflowname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflowname-delete-openapi.md
 - name: Azure Logic Apps API Workflows Disable
   x-api-slug: azure-logic-apps-api
   description: Disables a workflow.
@@ -93,9 +93,9 @@ apis:
   tags: Workflows Disable
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflownamedisable-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflownamedisable-post-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflownamedisable-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflownamedisable-post-openapi.md
 - name: Azure Logic Apps API Workflows Enable
   x-api-slug: azure-logic-apps-api
   description: Enables a workflow.
@@ -105,9 +105,9 @@ apis:
   tags: Workflows Enable
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflownameenable-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflownameenable-post-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflownameenable-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflownameenable-post-openapi.md
 - name: Azure Logic Apps API Workflows Generate Upgraded Definition
   x-api-slug: azure-logic-apps-api
   description: Generates the upgraded definition for a workflow.
@@ -117,7 +117,7 @@ apis:
   tags: Workflows Generate Upgraded Definition
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflownamegenerateupgradeddefinition-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflownamegenerateupgradeddefinition-post-openapi.md
 - name: Azure Logic Apps API Workflows List Swagger
   x-api-slug: azure-logic-apps-api
   description: Gets an OpenAPI definition for the workflow.
@@ -127,9 +127,9 @@ apis:
   tags: Workflows Swagger
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflownamelistswagger-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflownamelistswagger-post-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflownamelistswagger-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflownamelistswagger-post-openapi.md
 - name: Azure Logic Apps API Workflows Regenerate Access Key
   x-api-slug: azure-logic-apps-api
   description: Regenerates the callback URL access key for request triggers.
@@ -139,7 +139,7 @@ apis:
   tags: Workflows Regenerate Access Key
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflownameregenerateaccesskey-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflownameregenerateaccesskey-post-openapi.md
 - name: Azure Logic Apps API Workflow Versions List
   x-api-slug: azure-logic-apps-api
   description: Gets a list of workflow versions.
@@ -149,9 +149,9 @@ apis:
   tags: Workflow Versions
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflownameversions-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflownameversions-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflownameversions-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflownameversions-get-openapi.md
 - name: Azure Logic Apps API Workflow Versions Get
   x-api-slug: azure-logic-apps-api
   description: Gets a workflow version.
@@ -161,9 +161,9 @@ apis:
   tags: Workflow Versions
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflownameversionsversionid-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflownameversionsversionid-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflownameversionsversionid-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflownameversionsversionid-get-openapi.md
 - name: Azure Logic Apps API Workflow Triggers List
   x-api-slug: azure-logic-apps-api
   description: Gets a list of workflow triggers.
@@ -173,7 +173,7 @@ apis:
   tags: Workflow Triggers
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflownametriggers-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflownametriggers-get-openapi.md
 - name: Azure Logic Apps API Workflow Triggers Get
   x-api-slug: azure-logic-apps-api
   description: Gets a workflow trigger.
@@ -183,7 +183,7 @@ apis:
   tags: Workflow Triggers
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflownametriggerstriggername-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflownametriggerstriggername-get-openapi.md
 - name: Azure Logic Apps API Workflow Triggers Run
   x-api-slug: azure-logic-apps-api
   description: Runs a workflow trigger.
@@ -193,7 +193,7 @@ apis:
   tags: Workflow Triggers Run
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflownametriggerstriggernamerun-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflownametriggerstriggernamerun-post-openapi.md
 - name: Azure Logic Apps API Workflow Triggers List Callback Url
   x-api-slug: azure-logic-apps-api
   description: Gets the callback URL for a workflow trigger.
@@ -203,9 +203,9 @@ apis:
   tags: Workflow Triggers Callback Url
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflownametriggerstriggernamelistcallbackurl-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflownametriggerstriggernamelistcallbackurl-post-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflownametriggerstriggernamelistcallbackurl-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflownametriggerstriggernamelistcallbackurl-post-openapi.md
 - name: Azure Logic Apps API Workflow Versions List Callback Url
   x-api-slug: azure-logic-apps-api
   description: Lists the callback URL for a trigger of a workflow version.
@@ -215,7 +215,7 @@ apis:
   tags: Workflow Versions Callback Url
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflownameversionsversionidtriggerstriggernamelistcallbackurl-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflownameversionsversionidtriggerstriggernamelistcallbackurl-post-openapi.md
 - name: Azure Logic Apps API Workflow Trigger Histories List
   x-api-slug: azure-logic-apps-api
   description: Gets a list of workflow trigger histories.
@@ -225,7 +225,7 @@ apis:
   tags: Workflow Trigger Histories
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflownametriggerstriggernamehistories-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflownametriggerstriggernamehistories-get-openapi.md
 - name: Azure Logic Apps API Workflow Trigger Histories Get
   x-api-slug: azure-logic-apps-api
   description: Gets a workflow trigger history.
@@ -235,7 +235,7 @@ apis:
   tags: Workflow Trigger Histories
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflownametriggerstriggernamehistorieshistoryname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflownametriggerstriggernamehistorieshistoryname-get-openapi.md
 - name: Azure Logic Apps API Workflow Trigger Histories Resubmit
   x-api-slug: azure-logic-apps-api
   description: Resubmits a workflow run based on the trigger history.
@@ -245,7 +245,7 @@ apis:
   tags: Workflow Trigger Histories Resubmit
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflownametriggerstriggernamehistorieshistorynameresubmit-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflownametriggerstriggernamehistorieshistorynameresubmit-post-openapi.md
 - name: Azure Logic Apps API Workflow Runs List
   x-api-slug: azure-logic-apps-api
   description: Gets a list of workflow runs.
@@ -255,7 +255,7 @@ apis:
   tags: Workflow Runs
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflownameruns-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflownameruns-get-openapi.md
 - name: Azure Logic Apps API Workflow Runs Get
   x-api-slug: azure-logic-apps-api
   description: Gets a workflow run.
@@ -265,7 +265,7 @@ apis:
   tags: Workflow Runs
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflownamerunsrunname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflownamerunsrunname-get-openapi.md
 - name: Azure Logic Apps API Workflow Runs Cancel
   x-api-slug: azure-logic-apps-api
   description: Cancels a workflow run.
@@ -275,7 +275,7 @@ apis:
   tags: Workflow Runs Cancel
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflownamerunsrunnamecancel-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflownamerunsrunnamecancel-post-openapi.md
 - name: Azure Logic Apps API Workflow Run Actions List
   x-api-slug: azure-logic-apps-api
   description: Gets a list of workflow run actions.
@@ -285,9 +285,9 @@ apis:
   tags: Workflow Run Actions
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflownamerunsrunnameactions-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflownamerunsrunnameactions-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflownamerunsrunnameactions-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflownamerunsrunnameactions-get-openapi.md
 - name: Azure Logic Apps API Workflow Run Actions Get
   x-api-slug: azure-logic-apps-api
   description: Gets a workflow run action.
@@ -297,9 +297,9 @@ apis:
   tags: Workflow Run Actions
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflownamerunsrunnameactionsactionname-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflownamerunsrunnameactionsactionname-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicworkflowsworkflownamerunsrunnameactionsactionname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicworkflowsworkflownamerunsrunnameactionsactionname-get-openapi.md
 - name: Azure Logic Apps API Workflows Validate
   x-api-slug: azure-logic-apps-api
   description: Validates the workflow definition.
@@ -309,7 +309,7 @@ apis:
   tags: Workflows Validate
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogiclocationslocationworkflowsworkflownamevalidate-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logiclocationslocationworkflowsworkflownamevalidate-post-openapi.md
 - name: Azure Logic Apps API Integration Accounts List By Subscription
   x-api-slug: azure-logic-apps-api
   description: Gets a list of integration accounts by subscription.
@@ -319,7 +319,7 @@ apis:
   tags: Integration Accounts Subscription
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidprovidersmicrosoftlogicintegrationaccounts-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidprovidersmicrosoft-logicintegrationaccounts-get-openapi.md
 - name: Azure Logic Apps API Integration Accounts List By Resource Group
   x-api-slug: azure-logic-apps-api
   description: Gets a list of integration accounts by resource group.
@@ -329,7 +329,7 @@ apis:
   tags: Integration Accounts Resource Group
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccounts-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccounts-get-openapi.md
 - name: Azure Logic Apps API Integration Accounts Get
   x-api-slug: azure-logic-apps-api
   description: Gets an integration account.
@@ -339,7 +339,7 @@ apis:
   tags: Integration Accounts
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountname-get-openapi.md
 - name: Azure Logic Apps API Integration Accounts Create Or Update
   x-api-slug: azure-logic-apps-api
   description: Creates or updates an integration account.
@@ -349,7 +349,7 @@ apis:
   tags: Integration Accounts
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountname-put-openapi.md
 - name: Azure Logic Apps API Integration Accounts Update
   x-api-slug: azure-logic-apps-api
   description: Updates an integration account.
@@ -359,7 +359,7 @@ apis:
   tags: Integration Accounts
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountname-patch-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountname-patch-openapi.md
 - name: Azure Logic Apps API Integration Accounts Delete
   x-api-slug: azure-logic-apps-api
   description: Deletes an integration account.
@@ -369,7 +369,7 @@ apis:
   tags: Integration Accounts
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountname-delete-openapi.md
 - name: Azure Logic Apps API Integration Accounts Get Callback Url
   x-api-slug: azure-logic-apps-api
   description: Gets the integration account callback URL.
@@ -379,7 +379,7 @@ apis:
   tags: Integration Accounts Callback Url
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnamelistcallbackurl-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnamelistcallbackurl-post-openapi.md
 - name: Azure Logic Apps API Schemas List By Integration Accounts
   x-api-slug: azure-logic-apps-api
   description: Gets a list of integration account schemas.
@@ -389,9 +389,9 @@ apis:
   tags: Schemas Integration Accounts
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnameschemas-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnameschemas-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnameschemas-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnameschemas-get-openapi.md
 - name: Azure Logic Apps API Schemas Get
   x-api-slug: azure-logic-apps-api
   description: Gets an integration account schema.
@@ -401,9 +401,9 @@ apis:
   tags: Schemas
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnameschemasschemaname-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnameschemasschemaname-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnameschemasschemaname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnameschemasschemaname-get-openapi.md
 - name: Azure Logic Apps API Schemas Create Or Update
   x-api-slug: azure-logic-apps-api
   description: Creates or updates an integration account schema.
@@ -413,7 +413,7 @@ apis:
   tags: Schemas
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnameschemasschemaname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnameschemasschemaname-put-openapi.md
 - name: Azure Logic Apps API Schemas Delete
   x-api-slug: azure-logic-apps-api
   description: Deletes an integration account schema.
@@ -423,9 +423,9 @@ apis:
   tags: Schemas
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnameschemasschemaname-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnameschemasschemaname-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnameschemasschemaname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnameschemasschemaname-delete-openapi.md
 - name: Azure Logic Apps API Maps List By Integration Accounts
   x-api-slug: azure-logic-apps-api
   description: Gets a list of integration account maps.
@@ -435,9 +435,9 @@ apis:
   tags: Maps Integration Accounts
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnamemaps-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnamemaps-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnamemaps-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnamemaps-get-openapi.md
 - name: Azure Logic Apps API Maps Get
   x-api-slug: azure-logic-apps-api
   description: Gets an integration account map.
@@ -447,9 +447,9 @@ apis:
   tags: Maps
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnamemapsmapname-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnamemapsmapname-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnamemapsmapname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnamemapsmapname-get-openapi.md
 - name: Azure Logic Apps API Maps Create Or Update
   x-api-slug: azure-logic-apps-api
   description: Creates or updates an integration account map.
@@ -459,7 +459,7 @@ apis:
   tags: Maps
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnamemapsmapname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnamemapsmapname-put-openapi.md
 - name: Azure Logic Apps API Maps Delete
   x-api-slug: azure-logic-apps-api
   description: Deletes an integration account map.
@@ -469,9 +469,9 @@ apis:
   tags: Maps
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnamemapsmapname-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnamemapsmapname-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnamemapsmapname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnamemapsmapname-delete-openapi.md
 - name: Azure Logic Apps API Partners List By Integration Accounts
   x-api-slug: azure-logic-apps-api
   description: Gets a list of integration account partners.
@@ -481,9 +481,9 @@ apis:
   tags: Partners Integration Accounts
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnamepartners-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnamepartners-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnamepartners-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnamepartners-get-openapi.md
 - name: Azure Logic Apps API Partners Get
   x-api-slug: azure-logic-apps-api
   description: Gets an integration account partner.
@@ -493,9 +493,9 @@ apis:
   tags: Partners
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnamepartnerspartnername-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnamepartnerspartnername-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnamepartnerspartnername-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnamepartnerspartnername-get-openapi.md
 - name: Azure Logic Apps API Partners Create Or Update
   x-api-slug: azure-logic-apps-api
   description: Creates or updates an integration account partner.
@@ -505,7 +505,7 @@ apis:
   tags: Partners
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnamepartnerspartnername-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnamepartnerspartnername-put-openapi.md
 - name: Azure Logic Apps API Partners Delete
   x-api-slug: azure-logic-apps-api
   description: Deletes an integration account partner.
@@ -515,9 +515,9 @@ apis:
   tags: Partners
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnamepartnerspartnername-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnamepartnerspartnername-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnamepartnerspartnername-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnamepartnerspartnername-delete-openapi.md
 - name: Azure Logic Apps API Agreements List By Integration Accounts
   x-api-slug: azure-logic-apps-api
   description: Gets a list of integration account agreements.
@@ -527,9 +527,9 @@ apis:
   tags: Agreements Integration Accounts
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnameagreements-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnameagreements-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnameagreements-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnameagreements-get-openapi.md
 - name: Azure Logic Apps API Agreements Get
   x-api-slug: azure-logic-apps-api
   description: Gets an integration account agreement.
@@ -539,9 +539,9 @@ apis:
   tags: Agreements
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnameagreementsagreementname-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnameagreementsagreementname-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnameagreementsagreementname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnameagreementsagreementname-get-openapi.md
 - name: Azure Logic Apps API Agreements Create Or Update
   x-api-slug: azure-logic-apps-api
   description: Creates or updates an integration account agreement.
@@ -551,7 +551,7 @@ apis:
   tags: Agreements
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnameagreementsagreementname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnameagreementsagreementname-put-openapi.md
 - name: Azure Logic Apps API Agreements Delete
   x-api-slug: azure-logic-apps-api
   description: Deletes an integration account agreement.
@@ -561,9 +561,9 @@ apis:
   tags: Agreements
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnameagreementsagreementname-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnameagreementsagreementname-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnameagreementsagreementname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnameagreementsagreementname-delete-openapi.md
 - name: Azure Logic Apps API Certificates List By Integration Accounts
   x-api-slug: azure-logic-apps-api
   description: Gets a list of integration account certificates.
@@ -573,9 +573,9 @@ apis:
   tags: Certificates Integration Accounts
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnamecertificates-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnamecertificates-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnamecertificates-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnamecertificates-get-openapi.md
 - name: Azure Logic Apps API Certificates Get
   x-api-slug: azure-logic-apps-api
   description: Gets an integration account certificate.
@@ -585,9 +585,9 @@ apis:
   tags: Certificates
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnamecertificatescertificatename-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnamecertificatescertificatename-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnamecertificatescertificatename-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnamecertificatescertificatename-get-openapi.md
 - name: Azure Logic Apps API Certificates Create Or Update
   x-api-slug: azure-logic-apps-api
   description: Creates or updates an integration account certificate.
@@ -597,7 +597,7 @@ apis:
   tags: Certificates
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnamecertificatescertificatename-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnamecertificatescertificatename-put-openapi.md
 - name: Azure Logic Apps API Certificates Delete
   x-api-slug: azure-logic-apps-api
   description: Deletes an integration account certificate.
@@ -607,9 +607,9 @@ apis:
   tags: Certificates
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnamecertificatescertificatename-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnamecertificatescertificatename-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnamecertificatescertificatename-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnamecertificatescertificatename-delete-openapi.md
 - name: Azure Logic Apps API Sessions List By Integration Accounts
   x-api-slug: azure-logic-apps-api
   description: Gets a list of integration account sessions.
@@ -619,9 +619,9 @@ apis:
   tags: Sessions Integration Accounts
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnamesessions-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnamesessions-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnamesessions-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnamesessions-get-openapi.md
 - name: Azure Logic Apps API Sessions Get
   x-api-slug: azure-logic-apps-api
   description: Gets an integration account session.
@@ -631,9 +631,9 @@ apis:
   tags: Sessions
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnamesessionssessionname-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnamesessionssessionname-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnamesessionssessionname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnamesessionssessionname-get-openapi.md
 - name: Azure Logic Apps API Sessions Create Or Update
   x-api-slug: azure-logic-apps-api
   description: Creates or updates an integration account session.
@@ -643,7 +643,7 @@ apis:
   tags: Sessions
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnamesessionssessionname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnamesessionssessionname-put-openapi.md
 - name: Azure Logic Apps API Sessions Delete
   x-api-slug: azure-logic-apps-api
   description: Deletes an integration account session.
@@ -653,9 +653,9 @@ apis:
   tags: Sessions
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnamesessionssessionname-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnamesessionssessionname-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftlogicintegrationaccountsintegrationaccountnamesessionssessionname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-logicintegrationaccountsintegrationaccountnamesessionssessionname-delete-openapi.md
 - name: Azure Logic Apps API List Operations
   x-api-slug: azure-logic-apps-api
   description: Lists all of the available Logic REST API operations.
@@ -665,9 +665,9 @@ apis:
   tags: Operations
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/providersmicrosoftlogicoperations-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/providersmicrosoft-logicoperations-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/providersmicrosoftlogicoperations-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/providersmicrosoft-logicoperations-get-openapi.md
 - name: Azure Logic Apps API
   x-api-slug: azure-logic-apps-api
   description: You can connect apps, data, and devices anywhere&mdash;on-premises
