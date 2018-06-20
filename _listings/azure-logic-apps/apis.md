@@ -9,10 +9,10 @@ description: You can connect apps, data, and devices anywhere&mdash;on-premises 
   all of the time.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-logic-apps-01-connectors.png
 x-kinRank: "10"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Azure Logic Apps
-created: "2018-05-24"
-modified: "2018-05-24"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-logic-apps/master/_listings/azure-logic-apps/apis.md
 specificationVersion: "0.14"
 apis:
